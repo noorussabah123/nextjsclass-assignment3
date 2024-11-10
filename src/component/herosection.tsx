@@ -9,6 +9,7 @@ export default function About() {
                 I'm NextJs Developer
             </div>
             <img src="/image/pic.png" alt="profile-pic" width={400} height={300} />
+
         </div>
     )
 }
